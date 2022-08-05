@@ -52,7 +52,7 @@ Streamlit deployment -> https://suhas-2002-bengaluru-house-price-predictor-app-e
 
 Heruko deployment -> https://bengaluru-house-price-finder.herokuapp.com/
 
-### UI Interface
+## UI Interface
 
 ![image](https://user-images.githubusercontent.com/85097320/183143155-6f9c2b16-17b2-40db-a3b9-573fcaa69dad.png)
 
