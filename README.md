@@ -68,9 +68,9 @@ Heruko deployment -> https://bengaluru-house-price-finder.herokuapp.com/
 ```console
 pip install python
 ```
-5. Install requirement.txt using the command :
+5. Install requirements.txt using the command :
 ```console
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 6. Now run the app.py using the command :
 ```console
