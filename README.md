@@ -70,11 +70,11 @@ pip install python
 ```
 5. Install requirement.txt using the command :
 ```console
-pip install -r requirement.txt`.
+pip install -r requirement.txt
 ```
 6. Now run the app.py using the command :
 ```console
-streamlit run app.py.
+streamlit run app.py
 ```
 7. This will open the app locally!
 
