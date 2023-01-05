@@ -48,9 +48,7 @@ The App for this model is built using `streamlit`. `app.py` contains the code of
 
 Below are the links of deployed app:
 
-Streamlit deployment -> https://suhas-2002-bengaluru-house-price-predictor-app-e77ddu.streamlitapp.com/
-
-Heruko deployment -> https://bengaluru-house-price-finder.herokuapp.com/
+Streamlit deployment -> https://suhas-2002-bengaluru-house-price-predictor-app-vn7ino.streamlit.app/
 
 ## UI Interface
 
